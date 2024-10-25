@@ -3,6 +3,11 @@ body {
     background-color: silver;
 }
 
+.banner {
+  overflow: hidden;
+  background-color: black;
+}
+
 .topnav {
     overflow: hidden;
     background-color: black;
