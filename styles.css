@@ -8,7 +8,7 @@ body {
     background-color: black;
   }
 
-.banner input[type = text] {
+.banner input[type = text], .banner button {
   float: right;
   padding: 6px;
   border: none;
