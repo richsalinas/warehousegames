@@ -3,12 +3,7 @@ body {
     background-color: silver;
 }
 
-.banner {
-  overflow: hidden;
-  background-color: black;
-}
-
-.topnav {
+.banner, .topnav {
     overflow: hidden;
     background-color: black;
   }
