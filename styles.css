@@ -8,13 +8,14 @@ body {
     background-color: black;
   }
 
-.banner input[type = text], .banner button {
+.banner input[type = text] {
   float: right;
   padding: 6px;
   border: none;
   margin-top: 8px;
   margin-right: 16px;
   font-size: 17px;
+  vertical-align: middle;
 }
 
 .banner a, .topnav a {
