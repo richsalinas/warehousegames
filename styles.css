@@ -11,14 +11,24 @@ body {
 .topnav {
     overflow: hidden;
     background-color: black;
-  }
+}
 
 .banner input[type = text] {
-  float: right;
-  padding: 6px;
-  border: none;
-  margin-right: 16px;
-  font-size: 17px;
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+}
+  
+.banner button {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
 }
 
 .banner a, .topnav a {
