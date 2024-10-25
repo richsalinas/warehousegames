@@ -7,7 +7,16 @@ body {
     overflow: hidden;
     background-color: black;
   }
-  
+
+.banner input[type = text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
 .banner a, .topnav a {
   float: left;
   color: #f2f2f2;
