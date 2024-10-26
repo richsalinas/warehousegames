@@ -6,6 +6,8 @@ body {
 .banner {
   overflow: hidden;
   background-color: black;
+  display: flex;
+  align-items: center;
 }
 
 .topnav {
