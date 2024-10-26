@@ -19,7 +19,7 @@ body {
   
 .banner button {
   position: absolute;
-  float: left;
+  float: right;
   padding: 6px;
   margin-top: 8px;
   margin-right: 16px;
