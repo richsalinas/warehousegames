@@ -11,8 +11,7 @@ body {
 }
 
 .banner input[type = text] {
-  position: absolute;
-  right: 50;
+  float: right;
   padding: 6px;
   margin-top: 8px;
   font-size: 17px;
