@@ -11,6 +11,7 @@ body {
 }
 
 .banner input[type = text] {
+  float: right;
   padding: 6px;
   margin-top: 8px;
   font-size: 17px;
@@ -18,7 +19,6 @@ body {
 }
   
 .banner button {
-  position: absolute;
   float: right;
   padding: 6px;
   margin-top: 8px;
