@@ -5,7 +5,7 @@ body {
 
 .banner {
   overflow: hidden;
-  background-color: blue;
+  background-color: black;
 }
 
 .topnav {
@@ -14,6 +14,7 @@ body {
 }
 
 .banner input[type = text] {
+    float: right;
     padding: 6px;
     margin-top: 8px;
     font-size: 17px;
@@ -31,7 +32,7 @@ body {
     cursor: pointer;
 }
 
-.banner a, .topnav a {
+.topnav a {
   float: left;
   color: #f2f2f2;
   text-align: center;
