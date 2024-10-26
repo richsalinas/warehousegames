@@ -10,7 +10,7 @@ body {
   align-items: center;
 }
 
-.banner input[type = text] {
+.banner input {
   position: relative;
   left: 200px;
   padding: 6px;
