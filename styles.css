@@ -1,6 +1,6 @@
 body {
-    margin: 0;
-    background-color: silver;
+  margin: 0;
+  background-color: silver;
 }
 
 .banner {
@@ -11,21 +11,22 @@ body {
 }
 
 .banner input[type = text] {
-    padding: 6px;
-    margin-top: 8px;
-    font-size: 17px;
-    border: none;
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: none;
 }
   
 .banner button {
-    float: right;
-    padding: 6px;
-    margin-top: 8px;
-    margin-right: 16px;
-    background: #ddd;
-    font-size: 17px;
-    border: none;
-    cursor: pointer;
+  position: absolute;
+  float: left;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
 }
 
 .topnav {
