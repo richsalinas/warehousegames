@@ -19,7 +19,8 @@ body {
 }
   
 .banner button {
-  float: right;
+  position: absolute;
+  right: 0;
   padding: 6px;
   margin-top: 8px;
   margin-right: 16px;
