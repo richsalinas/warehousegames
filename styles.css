@@ -10,11 +10,6 @@ body {
   align-items: center;
 }
 
-.topnav {
-    overflow: hidden;
-    background-color: black;
-}
-
 .banner input[type = text] {
     padding: 6px;
     margin-top: 8px;
@@ -31,6 +26,11 @@ body {
     font-size: 17px;
     border: none;
     cursor: pointer;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: black;
 }
 
 .topnav a {
