@@ -38,6 +38,10 @@ body {
   text-decoration: underline;
 }
 
+.banner button:focus {
+  background-color: white;
+}
+
 .topnav {
   overflow: hidden;
   background-color: black;
