@@ -18,10 +18,13 @@ body {
   font-size: 15px;
 }
 
-.sportnav button {
+.sportnav a button {
   background: #ff0000;
   color: white;
   padding: 6px;
+  border: black;
+  border-radius: 5px;
+  cursor: pointer;
 }
 
 .banner {
