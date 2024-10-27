@@ -18,6 +18,12 @@ body {
   font-size: 15px;
 }
 
+.sportnav a button {
+  background: #ff0000;
+  color: white;
+  padding: 6px;
+}
+
 .banner {
   overflow: hidden;
   background-color: black;
