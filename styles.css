@@ -21,7 +21,6 @@ body {
 .sportnav a button {
   background: #ff0000;
   color: white;
-  border: black;
   border-radius: 7px;
   cursor: pointer;
 }
