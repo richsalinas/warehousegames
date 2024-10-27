@@ -94,3 +94,12 @@ body {
   background-color: #04AA6D;
   color: white;
 }
+
+.latestvideo {
+  overflow: hidden;
+  text-align: center;
+}
+
+.latestvideo h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
