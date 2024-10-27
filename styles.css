@@ -34,6 +34,10 @@ body {
   cursor: pointer;
 }
 
+.banner button:hover {
+  text-decoration: underline;
+}
+
 .topnav {
   overflow: hidden;
   background-color: black;
