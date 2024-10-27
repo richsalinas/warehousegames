@@ -18,9 +18,13 @@ body {
   font-size: 15px;
 }
 
+.sportnav a:hover {
+  background-color: #ddd;
+}
+
 .sportnav a button {
   position: absolute;
-  right: 0;
+  right: 50;
   background: #ff0000;
   color: white;
   border-radius: 7px;
