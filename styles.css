@@ -98,7 +98,7 @@ body {
 .latestvideo {
   overflow: hidden;
   display: grid;
-  padding: 50px;
+  margin-left: 10px;
 }
 
 .latestvideo a h1 {
