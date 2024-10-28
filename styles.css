@@ -97,6 +97,7 @@ body {
 
 .latestvideo {
   overflow: hidden;
+  display: grid;
 }
 
 .latestvideo a h1 {
