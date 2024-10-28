@@ -99,10 +99,6 @@ body {
   overflow: hidden;
 }
 
-.latestvideo a {
-  float: left;
-}
-
 .latestvideo a h1 {
   font-family: Arial, Helvetica, sans-serif;
 }
