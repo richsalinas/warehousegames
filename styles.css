@@ -121,7 +121,8 @@ body {
 }
 
 .grid-container-1 .meet-players .players-box img {
-  width: 25%;
+  width: 20%;
+  height: 120px;
   margin: 5px;
 }
 
