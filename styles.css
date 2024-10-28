@@ -120,6 +120,12 @@ body {
   border-radius: 5px 5px 0px 0px;
 }
 
+.grid-container-1 .meet-players .players-box {
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+}
+
 .grid-container-1 .meet-players .players-box img {
   width: 20%;
   height: 120px;
