@@ -123,8 +123,7 @@ body {
 .grid-container-1 .meet-players .players-box {
   display: flex;
   flex-direction: row;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
 }
 
 .grid-container-1 .meet-players .players-box img {
