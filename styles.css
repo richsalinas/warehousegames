@@ -101,7 +101,7 @@ body {
   margin: 0 auto;
 }
 
-.grid-container-1 div {
+.grid-container-1 .meet-players, .meet-teams, .highlights {
   background-color: white;
   width: 33%;
   height: 1000px;
