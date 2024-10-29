@@ -108,6 +108,7 @@ body {
   border: 1px black solid;
   border-radius: 5px;
   margin: auto;
+  margin-top: 5px;
 }
 
 .grid-container-1 div h2 {
