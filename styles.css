@@ -133,6 +133,13 @@ body {
   margin: 5px;
 }
 
+.grid-container-1 .meet-teams .captains-lg-box {
+  display: grid;
+  grid-template-columns: auto auto;
+  margin: auto;
+  justify-content: center;
+}
+
 .latestvideo {
   overflow: hidden;
   display: grid;
