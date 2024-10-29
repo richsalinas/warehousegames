@@ -140,6 +140,11 @@ body {
   justify-content: center;
 }
 
+.grid-container-1 .meet-teams .captains-lg-box img {
+  width: 50%;
+  margin: 5px;
+}
+
 .latestvideo {
   overflow: hidden;
   display: grid;
