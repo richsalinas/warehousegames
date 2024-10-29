@@ -124,6 +124,7 @@ body {
   display: flex;
   flex-direction: row;
   margin: auto;
+  justify-content: center;
 }
 
 .grid-container-1 .meet-players .players-box img {
